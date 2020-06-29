@@ -1,4 +1,5 @@
-def my_hash = {"Dametres" => "King", "Aden" => "Queen"}
+def my_hash 
+  my_hash = {"Dametres" => "King", "Aden" => "Queen"}
   
   
 end
