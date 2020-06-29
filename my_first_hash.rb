@@ -16,8 +16,7 @@ def retrieval
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-
-  shipping_manifest["oil paintings"]
+                  shipping_manifest["oil paintings"]
 
 end
 
@@ -27,12 +26,9 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
- 
- shipping_manifest["musket"] = 2
- 
- shipping_manifest["gun powder"] = 4
+                  shipping_manifest["musket"] = 2
+                   shipping_manifest["gun powder"] = 4
 
-
-return shipping_manifest
+shipping_manifest
 
 end
